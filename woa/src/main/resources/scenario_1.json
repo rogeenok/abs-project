@@ -1,0 +1,303 @@
+{
+    "initialPositions": [
+        {
+            "x": 5,
+            "y": 1
+        },
+        {
+            "x": 5,
+            "y": 3
+        },
+        {
+            "x": 5,
+            "y": 5
+        },
+        {
+            "x": 5,
+            "y": 7
+        },
+        {
+            "x": 5,
+            "y": 9
+        },
+        {
+            "x": 3,
+            "y": 3
+        }
+    ],
+    "initialResources": {
+        "gold": 250,
+        "stone": 150,
+        "wood": 100,
+        "food": 20
+    },
+    "mapWidth": 10,
+    "mapHeight": 10,
+    "tiles": [
+        {
+            "x": 1,
+            "y": 1,
+            "resource": "Forest",
+            "resource_amount": 20000
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "resource": "Ground"
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "resource": "Ground"
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "resource": "Ground"
+        },
+        {
+            "x": 9,
+            "y": 1,
+            "resource": "Ore",
+            "resource_amount": 10000,
+            "gold_percentage": 90
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "resource": "Ground"
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "resource": "Ground"
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "resource": "Ground"
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "resource": "Ground"
+        },
+        {
+            "x": 10,
+            "y": 2,
+            "resource": "Ground"
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "resource": "Forest",
+            "resource_amount": 20000
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "resource": "Ground"
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "resource": "Ground"
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "resource": "Ground"
+        },
+        {
+            "x": 9,
+            "y": 3,
+            "resource": "Ore",
+            "resource_amount": 10000,
+            "gold_percentage": 90
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "resource": "Ground"
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "resource": "Ground"
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "resource": "Ground"
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "resource": "Ground"
+        },
+        {
+            "x": 10,
+            "y": 4,
+            "resource": "Ground"
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "resource": "Forest",
+            "resource_amount": 20000
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "resource": "Ground"
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "resource": "Ground"
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "resource": "Ground"
+        },
+        {
+            "x": 9,
+            "y": 5,
+            "resource": "Ore",
+            "resource_amount": 10000,
+            "gold_percentage": 90
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "resource": "Ground"
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "resource": "Ground"
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "resource": "Ground"
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "resource": "Ground"
+        },
+        {
+            "x": 10,
+            "y": 6,
+            "resource": "Ground"
+        },
+        {
+            "x": 1,
+            "y": 7,
+            "resource": "Forest",
+            "resource_amount": 20000
+        },
+        {
+            "x": 3,
+            "y": 7,
+            "resource": "Ground"
+        },
+        {
+            "x": 5,
+            "y": 7,
+            "resource": "Ground"
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "resource": "Ground"
+        },
+        {
+            "x": 9,
+            "y": 7,
+            "resource": "Ore",
+            "resource_amount": 10000,
+            "gold_percentage": 90
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "resource": "Ground"
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "resource": "Ground"
+        },
+        {
+            "x": 6,
+            "y": 8,
+            "resource": "Ground"
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "resource": "Ground"
+        },
+        {
+            "x": 10,
+            "y": 8,
+            "resource": "Ground"
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "resource": "Forest",
+            "resource_amount": 20000
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "resource": "Ground"
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "resource": "Ground"
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "resource": "Ground"
+        },
+        {
+            "x": 9,
+            "y": 9,
+            "resource": "Ore",
+            "resource_amount": 10000,
+            "gold_percentage": 90
+        },
+        {
+            "x": 2,
+            "y": 10,
+            "resource": "Ground"
+        },
+        {
+            "x": 4,
+            "y": 10,
+            "resource": "Ground"
+        },
+        {
+            "x": 6,
+            "y": 10,
+            "resource": "Ground"
+        },
+        {
+            "x": 8,
+            "y": 10,
+            "resource": "Ground"
+        },
+        {
+            "x": 10,
+            "y": 10,
+            "resource": "Ground"
+        }
+    ]
+}

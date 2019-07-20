@@ -1,0 +1,131 @@
+{
+    "initialPositions": [
+        {
+            "x": 3,
+            "y": 3
+        },
+        {
+            "x": 5,
+            "y": 3
+        },
+        {
+            "x": 2,
+            "y": 4
+        },
+        {
+            "x": 5,
+            "y": 5
+        },
+        {
+            "x": 3,
+            "y": 5
+        },
+        {
+            "x": 3,
+            "y": 1
+        }
+    ],
+    "initialResources": {
+        "gold": 350,
+        "stone": 10,
+        "wood": 120,
+        "food": 50
+    },
+    "mapWidth": 6,
+    "mapHeight": 6,
+    "tiles": [
+        {
+            "x": 1,
+            "y": 1,
+            "resource": "Ground"
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "resource": "Ground"
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "resource": "Ground"
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "resource": "Ground"
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "resource": "Ground"
+        },
+        {
+            "x": 6,
+            "y": 2,
+            "resource": "Ground"
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "resource": "Ground"
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "resource": "Ground"
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "resource": "Ground"
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "resource": "Ground"
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "resource": "Ore",
+            "resource_amount": 5000,
+            "gold_percentage": 50
+        },
+        {
+            "x": 6,
+            "y": 4,
+            "resource": "Forest",
+            "resource_amount": 6000
+        },
+        {
+            "x": 1,
+            "y": 5,
+            "resource": "Ground"
+        },
+        {
+            "x": 3,
+            "y": 5,
+            "resource": "Ground"
+        },
+        {
+            "x": 5,
+            "y": 5,
+            "resource": "Ground"
+        },
+        {
+            "x": 2,
+            "y": 6,
+            "resource": "Ground"
+        },
+        {
+            "x": 4,
+            "y": 6,
+            "resource": "Ground"
+        },
+        {
+            "x": 6,
+            "y": 6,
+            "resource": "Ground"
+        }
+    ]
+}
